@@ -107,7 +107,7 @@ function isWalkable(x, y) {
 
 // Add at the top with other constants
 const antImage = new Image();
-antImage.src = './ants/ant.png';
+antImage.src = './ants/Ant.png';
 
 // Add these constants at the top with the others
 const ANT_SPEED = 0.5; // reduced from 1 to 0.5 pixels per frame
